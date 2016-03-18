@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d9b92282-7944-4e27-bf10-d7a85f5fbebc" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/File.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitLessons.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +48,7 @@
       <file leaf-file-name="Less1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Less1/src/Less1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17730497">
+            <state vertical-scroll-proportion="0.115207374">
               <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               <folding />
             </state>
@@ -578,7 +579,7 @@
       <option name="number" value="Default" />
       <updated>1458262176876</updated>
       <workItem from="1458262178031" duration="437000" />
-      <workItem from="1458263550411" duration="5089000" />
+      <workItem from="1458263550411" duration="6798000" />
     </task>
     <task id="LOCAL-00001" summary="New Project">
       <created>1458262280083</created>
@@ -622,11 +623,53 @@
       <option name="project" value="LOCAL" />
       <updated>1458272236029</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Project">
+      <created>1458273177808</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1458273177808</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Project">
+      <created>1458273381577</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1458273381577</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Project">
+      <created>1458274141835</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1458274141835</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Project">
+      <created>1458274199770</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1458274199770</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Project">
+      <created>1458274253493</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1458274253493</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Project">
+      <created>1458274493097</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1458274493097</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Project">
+      <created>1458274638405</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1458274638405</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5526000" />
+    <option name="totallyTimeSpent" value="7235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -634,7 +677,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -666,7 +709,8 @@
     <MESSAGE value="New Project2" />
     <MESSAGE value="Changes" />
     <MESSAGE value="Changes131" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes131" />
+    <MESSAGE value="Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -699,7 +743,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Less1/src/Less1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17730497">
+        <state vertical-scroll-proportion="0.115207374">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           <folding />
         </state>
