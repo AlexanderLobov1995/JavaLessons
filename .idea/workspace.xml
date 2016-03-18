@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b92282-7944-4e27-bf10-d7a85f5fbebc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/File.txt" afterPath="" />
     </list>
     <ignored path="GitLessons.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -579,7 +578,7 @@
       <option name="number" value="Default" />
       <updated>1458262176876</updated>
       <workItem from="1458262178031" duration="437000" />
-      <workItem from="1458263550411" duration="7809000" />
+      <workItem from="1458263550411" duration="7932000" />
     </task>
     <task id="LOCAL-00001" summary="New Project">
       <created>1458262280083</created>
@@ -681,7 +680,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8246000" />
+    <option name="totallyTimeSpent" value="8369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
