@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b92282-7944-4e27-bf10-d7a85f5fbebc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/File.txt" afterPath="" />
     </list>
     <ignored path="GitLessons.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -578,7 +578,7 @@
       <option name="number" value="Default" />
       <updated>1458262176876</updated>
       <workItem from="1458262178031" duration="437000" />
-      <workItem from="1458263550411" duration="8082000" />
+      <workItem from="1458263550411" duration="8533000" />
     </task>
     <task id="LOCAL-00001" summary="New Project">
       <created>1458262280083</created>
@@ -680,10 +680,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8519000" />
+    <option name="totallyTimeSpent" value="8970000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
